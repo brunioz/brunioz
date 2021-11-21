@@ -1,4 +1,4 @@
-## Oi eu sou o Bruno!
+## Oi, eu sou o Bruno!
 <div align="center">
   <a href="https://github.com/brunioz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunioz&show_icons=true&theme=dracula"/>
