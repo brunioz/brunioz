@@ -27,5 +27,5 @@
   <img align="right" alt="goku-like" height="150" src="https://i.imgur.com/sJU2LiJ.gif">
 </div>
   <br>
-   Meu combustível diário, a paixão por tecnologia, para poder com ela, mudar a vida das pessoas.
+   Meu combustível diário, é a paixão por tecnologia, para poder com ela, mudar a vida das pessoas.
   
